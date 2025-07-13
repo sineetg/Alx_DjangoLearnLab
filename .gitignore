@@ -1,0 +1,24 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django stuff
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Environment variables
+.env
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# From ChatGPT
